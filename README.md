@@ -1,8 +1,9 @@
 # Finance-Papers
 
-#### Insurnace (보험)
+#### Insurnace Finance (보험 금융)
 
-- 
+- A Neural Network extension of the Lee-Carter model to multiple populations
+  - [Original Paper](./papers/Richman and Wuthrich_AAS_2021.pdf)
 
 
 

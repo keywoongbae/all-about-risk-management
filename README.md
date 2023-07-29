@@ -8,7 +8,7 @@
   >
   > Keyword : `Lee-carter model` `mortality`
 
-- **The drivers of cyber risk** | [pdf](./papers/Aldasoro et al_JFS_2022.pdf) | study
+- **The drivers of cyber risk** | [pdf](./papers/Aldasoro_et_al_JFS_2022.pdf) | study
 
   > Summary : 
   >

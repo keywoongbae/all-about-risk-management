@@ -6,6 +6,12 @@
 >
 > Journal : Journal of Financial Stablility
 
+> **논문 읽으면서 궁금한 점**
+>
+> 1) 어드바이젠 데이터셋은 왜 
+
+<hr>
+
 ### 초록
 
 사이버 사건은 점점 더 정교해지고, 정량화되기가 어렵다. cyber event에 대한 데이터베이스를 사용해서, 본 논문은 사이버 사건의 특징과 원인을 정리한다.
@@ -49,15 +55,41 @@ Advisen 데이터는 위의 3개의 구성요소 중, **직접 비용**으로 �
 
 cyber event의 빈도(frequency)와 비용(costs)은 부문마다 다름. 
 
-- "금융 및 보험 활동"에서 cyber event가 가장 많이 발생하였음.
-- 도매무역, 운송및보관, 전문/과학 및 기술 순으로 cyber cost가 높았음을 알 수 있음.
+- frequency : "금융 및 보험 활동"에서 cyber event가 가장 많이 발생하였음.
+- cost : 도매무역, 운송및보관, 전문/과학 및 기술 순으로 cyber cost가 높았음을 알 수 있음.
   - 부문에 따라 비용의 표준편차가 상당히 큼(손실 분포가 두꺼운 꼬리를 가질 가능성이 높다)
 
-<img src="C:\Users\Keywoong\AppData\Roaming\Typora\typora-user-images\image-20230802213636109.png" alt="image-20230802213636109" style="zoom: 45%;" />
+![image-20230803110744557](C:\workspace\All-about-Risk-management\study\imgs\image-20230803110744557.png)
 
-빈도수 분포는 상대적으로 안정적임.
+|                          cost 분포                           |                         빈도수 분포                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| - cost 분포에서 2012년에서는 ICT와 FI가 가장 높은 비중을 가짐.<br />- 금융 위기 이후 FI 부문의 사이버 사고 빈도 증가는 부분적으로 은행에 대한 표적 공격에 의해 주도되었을 수 있음. | - 빈도수 분포는 상대적으로 안정적임.<br />- 빈도수 분포를 보면 Finance/Insurance뿐 아니라 Admin. and Support도 비중이 높음. |
 
-- 
+![image-20230803110836978](C:\workspace\All-about-Risk-management\study\imgs\image-20230803110836978.png)
+
+
+
+### 4. Identifying the drivers of cyber costs
+
+#### 4.1 경험적 접근
+
+본 논문에서는 아래 모델을 통해 사건과 회사/부문 특징에 따른 사이버 사건의 비용을 설명하고자 함.
+
+-  $C_{i,f,g} = \beta Z_{i,f,g}+\lambda W_{f,g}+\theta X_g + \eta_k + \alpha_t + u_{i,f,g}$
+
+  - |  Notations  | Detail                 |
+    | :---------: | ---------------------- |
+    |     $i$     | 사건들 수 ($N_i 3705$) |
+    |     $f$     | 사건이 발생하는 회사   |
+    |     $g$     | 부문                   |
+    | $C_{i,f,g}$ | 사건의 비용            |
+    |    $X_g$    | sector-level controls  |
+    |             |                        |
+    |             |                        |
+    |             |                        |
+    |             |                        |
+
+  
 
 
 

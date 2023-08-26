@@ -54,18 +54,18 @@
 
 **사건 부문별 비용과 빈도**
 
-- <img src="C:\workspace\All-about-Risk-management\study\imgs\image-20230826215652249.png" alt="image-20230826215652249" style="zoom: 30%;" />
-- 비용 부문에선, 도매무역 > 운송 > PST 순으로 높음
+- <img src="C:\workspace\All-about-Risk-management\study\imgs\image-20230826225517832.png" alt="image-20230826225517832" style="zoom:33%;" />
+- **비용 부문에선**, 도매무역 > 운송 > PST 순으로 높음
   - 업종 별 손실분포의 꼬리가 두껍다.
-- 빈도 부문에선, 금융보험 분야가 높다.
+- **빈도 부문에선**, 금융보험 분야가 높다.
   - 금융보험 분야는 빈도가 높은 반면, 회복력이 좋아 비용은 낮다.
 
 **사건 유형별 비용과 빈도**
 
-- <img src="C:\workspace\All-about-Risk-management\study\imgs\image-20230826215835684.png" alt="image-20230826215835684" style="zoom:30%;" />
-- 비용 부문에선, 데이터 유출이 제일 높다.
+- <img src="C:\workspace\All-about-Risk-management\study\imgs\image-20230826225248534.png" alt="image-20230826225248534" style="zoom:33%;" />
+- **비용 부문에선**, 데이터 유출이 제일 높다.
   - 이 말은 즉슨, 해커가 데이터 대량 확보하게 된다면 피해가 엄청날 것이라는 뜻.
-- 빈도 부문에선, 개인정보 침해가 제일 높다.
+- **빈도 부문에선**, 개인정보 침해가 제일 높다.
   - 사건 발생 시 책임 부여가 쉬우므로
 - 전반적인 추세는 감소하고 있으므로 긍정적이라 할 수 있다.
 

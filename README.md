@@ -6,7 +6,7 @@
 
 ## Papers
 
-#### Lee-carter model
+### Lee-carter model
 
 **A Neural Network extension of the Lee-Carter model to multiple populations**
 
@@ -28,7 +28,7 @@ Scandinavian Actuarial Journal 2021. [[Paper](./papers/Perla_et_al_SAJ_2021.pdf)
 
 
 
-#### Cyber risk
+### Cyber risk
 
 **The drivers of cyber risk**
 

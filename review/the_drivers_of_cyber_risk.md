@@ -14,7 +14,7 @@
 
 - 상관관계가 아닌 **예측의 관점**으로 사이버 리스크를 분석할 수 있을까?, 시계열 딥러닝 모델로 미래를 예측할 수 있을까?
   - 그렇게 되면 과연 어떤 변수를 사용해야 할까? : cyber cost에 영향을 줄 수 있는 변수는 어떤 것이 있을까?
-  - <img src="C:\Users\Keywoong\OneDrive - postech.ac.kr\workspace\All-about-Risk-management\review\imgs\image-20230831145834028.png" alt="image-20230831145834028" style="zoom:33%;" />
+  - <img src="imgs\image-20230831145834028.png" alt="image-20230831145834028" style="zoom:33%;" />
 - 년도에 따라서 cyber risk 발생 유형이 달라짐 (**규칙성이 있을까?**) : 왜 갑자기 2017년도에 data breaching 빈도수 및 피해금액이 증가했을까? 
   - <img src="\imgs\image-20230831143208929.png" alt="image-20230831143208929" style="zoom: 50%;" />
 

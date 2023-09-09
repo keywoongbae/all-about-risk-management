@@ -6,12 +6,12 @@
 ## Overview
 
 - [Lecture / Textbook](#Lecture-/-Textbook)
-  - [Integrated Risk Management](Integrated-Risk-Management)
-- [Related Links / Posts](#Related--Links--Posts)
-  - [Catastrophic Risk](#Catastrophic-Risk)
+  - Integrated Risk Management
+- [Related Links / Posts](#Related-/-Links-/-Posts)
+  - Catastrophic Risk
 - [Papers](#Papers)
-  - [Cyber risk](#Cyber-risk)
-  - [Insurance](#Insurance)
+  - Cyber risk
+  - Insurance
 
 ## Resources
 

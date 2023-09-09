@@ -7,7 +7,7 @@
 
 - [Lecture / Textbook](#Lecture-/-Textbook)
   - [Integrated Risk Management](Integrated-Risk-Management)
-- [Related Links / Posts](#Related Links--Posts)
+- [Related Links / Posts](#Related--Links--Posts)
   - [Catastrophic Risk](#Catastrophic-Risk)
 - [Papers](#Papers)
   - [Cyber risk](#Cyber-risk)

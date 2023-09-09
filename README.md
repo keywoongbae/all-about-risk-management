@@ -7,8 +7,12 @@
 
 ### Lecture / Textbook
 
-- **통합리스크관리**  [[Summary](./lectures/Integreted-Risk-Managaement)]
-  - POSTECH 통합리스크관리 강좌 (IMEN891G) 
+- **Integrated Risk Management**
+  - POSTECH Graduate Lecture (IMEN891G) 
+    - [01. Introduction to Risk Management](./lectures/Integreted-Risk-Managaement/Summary_01.md)
+    - [02. Theory of Risk Management]()
+
+
 
 
 

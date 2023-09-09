@@ -17,7 +17,7 @@
 
 ### Lecture / Textbook
 
-**Integrated Risk Management** [[Summary](./lectures/Integrated--Risk--Management/)]
+##### **Integrated Risk Management** [[Summary](./lectures/Integrated--Risk--Management/)]
 
 - POSTECH 통합리스크관리 강좌 (IMEN891G)
 
@@ -25,7 +25,7 @@
 
 ### Related Links / Posts
 
-**Catastrophic Risk** 
+##### **Catastrophic Risk** 
 
 - **Machine Learning for Disaster Risk management** [[Website](https://www.gfdrr.org/sites/default/files/publication/181222_WorldBank_DisasterRiskManagement_Ebook_D6.pdf)]
   - The World Bank
@@ -35,7 +35,7 @@
 
 ### Journal Papers
 
-**Cyber risk (사이버리스크)**
+##### **Cyber risk (사이버리스크)**
 
 - **The drivers of cyber risk** [[Paper](./papers/Aldasoro_JFS_2022.pdf)] [[Review](./review/the_drivers_of_cyber_risk.md)]
   - Iñaki Aldasoro, Leonardo Gambacorta, Paolo Giudici, Thomas Leach
@@ -44,7 +44,7 @@
 
 
 
-**Insurance (보험)**
+##### **Insurance (보험)**
 
 - **A Neural Network extension of the Lee-Carter model to multiple populations** [[Paper](./papers/Richman_and_Wuthrich_AAS_2021.pdf)] [[Review](https://newindow.tistory.com/319)] `Deep learning`
   - Ronald Richman, Mario V. Wüthrich

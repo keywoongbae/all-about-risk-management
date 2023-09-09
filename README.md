@@ -6,20 +6,20 @@
 ## Overview
 
 - [Lecture / Textbook](#lecture--textbook)
-  - [Integrated Risk Management](#integrated-risk-management)
 - [Related Links / Posts](#related-links--posts)
   - [Catastrophic Risk](#catastrophic-risk)
 - [Journal Papers](#journal-papers)
-  - [Cyber risk](#cyber-risk-(사이버리스크)**)
-  - [Insurance](#insurance-(보험))
+  - [Cyber risk](#cyber-risk-사이버리스크**)
+  - [Insurance](#insurance-보험)
 
 ## Resources
 
 ### Lecture / Textbook
 
-#### **Integrated Risk Management** [[Summary](./lectures/Integrated--Risk--Management/)]
+#### Lectures
 
-- POSTECH 통합리스크관리 강좌 (IMEN891G)
+- **Integrated Risk Management**
+  - POSTECH 통합리스크관리 강좌 (IMEN891G)  [[Summary](./lectures/Integrated--Risk--Management/)]
 
 
 

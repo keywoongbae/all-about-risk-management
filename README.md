@@ -7,15 +7,12 @@
 
 ### Lecture / Textbook
 
-**Integrated Risk Management**
-
-- POSTECH 통합리스크관리 강좌 (IMEN891G)  [[Summary](./lectures/Integreted-Risk-Managaement)]
+- **통합리스크관리**  [[Summary](./lectures/Integreted-Risk-Managaement)]
+  - POSTECH 통합리스크관리 강좌 (IMEN891G) 
 
 
 
 ### Related Links / Posts
-
-**Catastrophic Risk** 
 
 - **Machine Learning for Disaster Risk management** [[Website](https://www.gfdrr.org/sites/default/files/publication/181222_WorldBank_DisasterRiskManagement_Ebook_D6.pdf)]
   - The World Bank / Global Facility for Disaster Reduction and Recovery (GFDRR)
@@ -24,17 +21,17 @@
 
 ### Journal Papers
 
-**Cyber risk (사이버리스크)**
-
-- **The drivers of cyber risk** [[Paper](./papers/Aldasoro_JFS_2022.pdf)] [[Review](./review/the_drivers_of_cyber_risk.md)]
-  - Iñaki Aldasoro, Leonardo Gambacorta, Paolo Giudici, Thomas Leach / Journal of Financial Stability 2022.
-
+- **Cyber risk (사이버리스크)**
+  - **The drivers of cyber risk** [[Paper](./papers/Aldasoro_JFS_2022.pdf)] [[Review](./review/the_drivers_of_cyber_risk.md)]
+    - Iñaki Aldasoro, Leonardo Gambacorta, Paolo Giudici, Thomas Leach / Journal of Financial Stability 2022.
 
 
-**Insurance (보험)**
 
-- **A Neural Network extension of the Lee-Carter model to multiple populations** [[Paper](./papers/Richman_and_Wuthrich_AAS_2021.pdf)] [[Review](https://newindow.tistory.com/319)] 
-  - Ronald Richman, Mario V. Wüthrich / Annals of Actuarial Science 2021.
+- **Insurance (보험)**
 
-- **Time-series forecasting of mortality rates using deep learning** [[Paper](./papers/Perla_et_al_SAJ_2021.pdf)] [[Brief]()]
-  - Francesca Perla, Ronald Richman, Salvatore Scognamiglio & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021.
+  - **A Neural Network extension of the Lee-Carter model to multiple populations** [[Paper](./papers/Richman_and_Wuthrich_AAS_2021.pdf)] [[Review](https://newindow.tistory.com/319)] 
+    - Ronald Richman, Mario V. Wüthrich / Annals of Actuarial Science 2021.
+
+  - **Time-series forecasting of mortality rates using deep learning** [[Paper](./papers/Perla_et_al_SAJ_2021.pdf)] [[Brief]()]
+    - Francesca Perla, Ronald Richman, Salvatore Scognamiglio & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021.
+

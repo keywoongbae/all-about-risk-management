@@ -23,7 +23,7 @@
 
 - **Cyber risk (사이버리스크)**
   - **The drivers of cyber risk** [[Paper](./papers/Aldasoro_JFS_2022.pdf)] [[Review](./review/the_drivers_of_cyber_risk.md)]
-    - Iñaki Aldasoro, Leonardo Gambacorta, Paolo Giudici, Thomas Leach / Journal of Financial Stability 2022.
+    - Iñaki Aldasoro. et al / Journal of Financial Stability 2022.
 
 
 
@@ -31,5 +31,5 @@
   - **A Neural Network extension of the Lee-Carter model to multiple populations** [[Paper](./papers/Richman_and_Wuthrich_AAS_2021.pdf)] [[Review](https://newindow.tistory.com/319)]
     - Ronald Richman, Mario V. Wüthrich / Annals of Actuarial Science 2021.
   - **Time-series forecasting of mortality rates using deep learning** [[Paper](./papers/Perla_et_al_SAJ_2021.pdf)] [[Brief]()]
-    - Francesca Perla, Ronald Richman, Salvatore Scognamiglio & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021.
+    - Francesca Perla.et al & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021.
 

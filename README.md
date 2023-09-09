@@ -1,12 +1,13 @@
 # All about Risk-management
 
 - 이 레포는 **리스크관리**와 관련된 다양한 자료, 논문들을 정리하여 요약 및 리뷰를 하는 모음입니다.
+- 금융리스크를 포함하여 일상생활 속 전반적인 리스크에 대해서 다룹니다.
 
 ## Overview
 
 - [Lecture / Textbook](#Lecture-/-Textbook)
   - [Integrated Risk Management](Integrated-Risk-Management)
-- [Related Links / Posts](#Related Links-/-Posts)
+- [Related Links / Posts](#Related Links--Posts)
   - [Catastrophic Risk](#Catastrophic-Risk)
 - [Papers](#Papers)
   - [Cyber risk](#Cyber-risk)

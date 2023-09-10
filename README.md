@@ -12,7 +12,7 @@
     - [01. Introduction to Risk Management](./lectures/Integreted-Risk-Managaement/Summary_01.md)
     - [02. Theory of Risk Management]()
 
-
+- **Machine Learning for Financial Risk Management with Python**
 
 
 

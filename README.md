@@ -21,6 +21,9 @@
 - **Machine Learning for Disaster Risk management** [[Website](https://www.gfdrr.org/sites/default/files/publication/181222_WorldBank_DisasterRiskManagement_Ebook_D6.pdf)]
   - The World Bank / Global Facility for Disaster Reduction and Recovery (GFDRR)
 
+- **Examining the Correlation Between Major Cyber Events and Broad Market Performance** [[pdf](./posts/Sep-2023-Cyber-Report-ILS-Publish/pdf)]
+  - A business of Marsh McLennan
+
 
 
 ### Journal Papers

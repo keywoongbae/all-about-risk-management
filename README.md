@@ -9,8 +9,8 @@
 
 - **Integrated Risk Management**
   - POSTECH Graduate Lecture (IMEN891G) 
-    - [01. Introduction to Risk Management](./lectures/Integreted-Risk-Managaement/Summary_01.md)
-    - [02. Theory of Risk Management]()
+    - [01. Introduction to Risk Management](./lectures/Integreted-Risk-Managaement/01. Introduction to Risk Management.md)
+    - [02. Theory of Risk Management](./lectures/Integreted-Risk-Managaement/02. Theory of Risk Management.md)
 
 - **Machine Learning for Financial Risk Management with Python**
 

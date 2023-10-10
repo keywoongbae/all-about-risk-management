@@ -119,4 +119,135 @@
        - A firm is evaluating a project with potential payoff $X \sim \mathcal{N}(10,10^2)$. How much equity capital (EC) is needed to achieve one period default probability of 1% ($=\alpha$)
 
          > <img src=".\img\image-20230914175553538.png" alt="image-20230914175553538" style="zoom:50%;" />
+     
+   - **Steps to evaluate risks**
+   
+     - (1) 심도에 기반해서 우선순위 매기기 : Criticality analysis
+       - Critical risk / Important risk / Unimportant risk
+     - (2) 가능성과 우선순위 매기기
+       - d
+   
+4. Risk management in a narrow sense.
 
+   - Risk financing measures
+
+
+
+Case that successfully managed risks
+
+- Engineering & Construction industry cases.
+  - (1) d
+
+
+
+## The rationale of a firm's risk-taking
+
+### Interest rates over time
+
+### First-mover : Tesla
+
+### The Risk-Return Trade-off (1/2)
+
+There is a reward for bearing risk
+
+### The Risk-Return Trade-off (2/2)
+
+The greater the potential reward, the greater the risk.
+
+
+
+## How can we measure a firm's return associated with its risk?
+
+### Portfolio expected returns
+
+
+
+### Portfolio variance
+
+
+
+### Variance-covariance approach
+
+
+
+### Mean-Variance model
+
+
+
+### Efficient frontier
+
+
+
+## The Measure of Risk-based Return
+
+### Firm's return associated with its risk.
+
+risk에 대한 기대 : 체계적위험에 의한 리스크
+
+보상을 어떻게 measure할 것인가?
+
+체계적 위험을 어떻게 measure할 것인가?
+
+beta라는 척도를 사용 (체계적 위험을 다루고 있는 지표.)
+
+$ \underset{\text{for asset } i}{\beta_i} = \frac{\sigma_{r_i, r_m}}{\sigma_{\sigma_{r_m}}^2}$
+
+$r_i$ : asset i return, $r_m$ : return on the market(S&P 500, DAX, KOSPI)
+
+$\beta_m = \frac{\sigma_{r_m, r_m}}{\sigma^2_{r_m}} = \frac{\sigma^2_{r_m}}{\sigma^2_{r_m}}=1$
+
+$\beta <1 : \sigma_{r_i, r_m} < \sigma^2_{r_m}$
+
+마켓에서의 리스크가 내 것보다 리스크보다 크다.
+
+내가 좀더 안전한 자산에 투자를 하고 있음을 의미.
+
+$\beta >1 : \sigma_{r_i, r_m} > \sigma^2_{r_m}$
+
+내 자산의 움직임이 시장의 움직임보다 크다.
+
+내가 좀더 위험한 자산에 투자를 하고 있음을 의미.
+
+
+
+### Reward-to-risk ratio
+
+마켓에서의 ratio : $\frac{E(R_m)-R_f}{\beta_m}=E(R_m)-R_f$(Market Risk Premium) 
+
+<경제학에서의 시장균형>
+
+B라는 자산의 비율이 8일 때, 
+
+B의 수요 증가. 
+
+B의 값 하락
+
+A와 B가 균형을 맞춤.
+
+
+
+### CAPM
+
+$\frac{E(R_i)-R_f}{\beta_i} = E(R_m)-R_f$
+
+in the market quilibrium.
+
+
+
+우리가 알고자하는것 : $E(R_i)$
+
+$E(R_i) = R_f + \beta_i(E(R_m)-R_f)$
+
+자산의 체계적 위험으로 자산의 기대수익을 계산하는 것.
+
+- 화폐의 시간가치 ($R_f$에 담고 있음.)
+- 체계적 위험을 감수함으로써 발생하는 보상 ($E(R_m)-R_f$)
+- 체계적 위험의 사이즈 ($\beta_i$)
+
+
+
+### RM and value creation
+
+- RM을 잘하면 회사의 가치가 높아진다. -> flexibility in capital financing
+
+- 위험을 반영해서 결정하면 기본적으로 회사의 가치가 증가하게 됨.

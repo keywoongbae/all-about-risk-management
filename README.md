@@ -1,42 +1,28 @@
-# All about Risk-management
+이 레포는 **리스크관리**와 관련된 다양한 자료, 논문들을 정리하여 요약 및 리뷰를 하는 모음입니다.
 
-- 이 레포는 **리스크관리**와 관련된 다양한 자료, 논문들을 정리하여 요약 및 리뷰를 하는 모음입니다.
-- 금융리스크를 포함하여 일상생활 속 전반적인 리스크에 대해서 다룹니다.
+금융리스크를 포함하여 일상생활 속 전반적인 리스크에 대해서 다루며, 특히 Cyber Risk를 중점적으로 다룹니다.
 
 ## Resources
 
-### Lecture / Textbook
+### Helpful Links / Posts / Papers
 
-- **Integrated Risk Management**
-  - POSTECH Graduate Lecture (IMEN891G) 
-    - [01. Introduction to Risk Management](./lectures/Integreted-Risk-Managaement/01_Introduction_to_Risk_Management.md)
-    - [02. Theory of Risk Management](./lectures/Integreted-Risk-Managaement/02_Theory_of_Risk_Management.md)
-
-- **Machine Learning for Financial Risk Management with Python**
-
-
-
-### Related Links / Posts
-
-- **Machine Learning for Disaster Risk management** [[Website](https://www.gfdrr.org/sites/default/files/publication/181222_WorldBank_DisasterRiskManagement_Ebook_D6.pdf)]
-  - The World Bank / Global Facility for Disaster Reduction and Recovery (GFDRR)
-
-- **Examining the Correlation Between Major Cyber Events and Broad Market Performance** [[pdf](./posts/Sep-2023-Cyber-Report-ILS-Publish.pdf)]
-  - A business of Marsh McLennan
-
-
+- 시나리오 작성
+  - [[Report] Emerging Risk Report 2017 - Counting the cost](./files/emerging_risk_report_2017.pdf)
+  - [[Report] Business Blackout Scenario](./files/business_blackout_scenario.pdf)
+  - [[Paper] The Economic Impact of Extreme Cyber Risk Scenarios](./files/the_economic_impact_of_extreme_cyber_risk_scenarios.pdf)
+  - [[Paper] Cyber Risk Management for Critical Infrastructure](./files/cyber_risk_management_for_critical_infrastructure.pdf)
+- Loss Distribution Approach (LDA)
+  - [An R package for fitting distributions](./files/fitdistrplus_An R package for fitting distributions(Laura, 2014).pdf)
+- 사이버 리스크
+  - [Examining the Correlation Between Major Cyber Events and Broad Market Performance](./files/Sep-2023-Cyber-Report-ILS-Publish.pdf)
 
 ### Journal Papers
 
-- **Cyber risk (사이버리스크)**
-  - **The drivers of cyber risk** [[Paper](./papers/Aldasoro_JFS_2022.pdf)] [[Review](./review/the_drivers_of_cyber_risk.md)]
-    - Iñaki Aldasoro. et al / Journal of Financial Stability 2022.
+- **사이버리스크에 대한 소개**
+  - [The drivers of cyber risk](./files/Aldasoro_JFS_2022.pdf) (Iñaki Aldasoro. et al / Journal of Financial Stability 2022)
+    - [Review](./review/the_drivers_of_cyber_risk.md)
 
-
-
-- **Insurance (보험)**
-  - **A Neural Network extension of the Lee-Carter model to multiple populations** [[Paper](./papers/Richman_and_Wuthrich_AAS_2021.pdf)] [[Review](https://newindow.tistory.com/319)]
-    - Ronald Richman, Mario V. Wüthrich / Annals of Actuarial Science 2021.
-  - **Time-series forecasting of mortality rates using deep learning** [[Paper](./papers/Perla_et_al_SAJ_2021.pdf)] [[Brief]()]
-    - Francesca Perla.et al & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021.
-
+- **보험률 추정**
+  - [A Neural Network extension of the Lee-Carter model to multiple populations](./files/Richman_and_Wuthrich_AAS_2021.pdf) (Ronald Richman, Mario V. Wüthrich / Annals of Actuarial Science 2021)
+    - [Review](https://newindow.tistory.com/319)
+  - [Time-series forecasting of mortality rates using deep learning](./files/Perla_et_al_SAJ_2021.pdf) (Francesca Perla.et al & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021)

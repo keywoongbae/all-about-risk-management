@@ -19,11 +19,11 @@
 
 ### Journal Papers
 
-- **사이버리스크에 대한 소개**
+- 사이버리스크에 대한 소개
   - [The drivers of cyber risk](./files/Aldasoro_JFS_2022.pdf) (Iñaki Aldasoro. et al / Journal of Financial Stability 2022)
     - [논문 리뷰](./review/the_drivers_of_cyber_risk.md)
 
-- **보험 + 딥러닝**
+- 보험 + 딥러닝
   - [A Neural Network extension of the Lee-Carter model to multiple populations](./files/Richman_and_Wuthrich_AAS_2021.pdf) (Ronald Richman, Mario V. Wüthrich / Annals of Actuarial Science 2021)
     - [논문 리뷰](https://newindow.tistory.com/319)
   - [Time-series forecasting of mortality rates using deep learning](./files/Perla_et_al_SAJ_2021.pdf) (Francesca Perla.et al & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021)

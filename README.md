@@ -28,4 +28,4 @@
     - [논문 리뷰](https://newindow.tistory.com/319)
   - [Time-series forecasting of mortality rates using deep learning](./files/Perla_et_al_SAJ_2021.pdf) (Francesca Perla.et al & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021)
 
-[example](./lectures/Integreted-Risk-Managaement/)
+[example](./files/ex.ipynb)

@@ -27,5 +27,3 @@
   - [A Neural Network extension of the Lee-Carter model to multiple populations](./files/Richman_and_Wuthrich_AAS_2021.pdf) (Ronald Richman, Mario V. Wüthrich / Annals of Actuarial Science 2021)
     - [논문 리뷰](https://newindow.tistory.com/319)
   - [Time-series forecasting of mortality rates using deep learning](./files/Perla_et_al_SAJ_2021.pdf) (Francesca Perla.et al & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021)
-
-[example](./files/ex.html)

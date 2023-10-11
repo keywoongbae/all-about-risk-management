@@ -13,6 +13,7 @@
   - [[Paper] Cyber Risk Management for Critical Infrastructure](./files/cyber_risk_management_for_critical_infrastructure.pdf)
 - Loss Distribution Approach (LDA)
   - [An R package for fitting distributions](./files/fitdistrplus_An R package for fitting distributions(Laura, 2014).pdf)
+  - [Computation of the Loss Distribution in Python](https://quantatrisk.com/2016/06/05/loss-distribution-operational-risk/)
 - 사이버 리스크
   - [Examining the Correlation Between Major Cyber Events and Broad Market Performance](./files/Sep-2023-Cyber-Report-ILS-Publish.pdf)
 
@@ -20,9 +21,11 @@
 
 - **사이버리스크에 대한 소개**
   - [The drivers of cyber risk](./files/Aldasoro_JFS_2022.pdf) (Iñaki Aldasoro. et al / Journal of Financial Stability 2022)
-    - [Review](./review/the_drivers_of_cyber_risk.md)
+    - [논문 리뷰](./review/the_drivers_of_cyber_risk.md)
 
 - **보험률 추정**
   - [A Neural Network extension of the Lee-Carter model to multiple populations](./files/Richman_and_Wuthrich_AAS_2021.pdf) (Ronald Richman, Mario V. Wüthrich / Annals of Actuarial Science 2021)
-    - [Review](https://newindow.tistory.com/319)
+    - [논문 리뷰](https://newindow.tistory.com/319)
   - [Time-series forecasting of mortality rates using deep learning](./files/Perla_et_al_SAJ_2021.pdf) (Francesca Perla.et al & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021)
+
+[example](./lectures/Integreted-Risk-Managaement/)

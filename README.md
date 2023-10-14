@@ -38,5 +38,5 @@
 ### Journals & Conferences
 
 - 저널
-  - [NAAJ (North American Actuarial Journal)](https://www.tandfonline.com/toc/uaaj20/current)
+  - [NAAJ (North American Actuarial Journal)](https://www.tandfonline.com/toc/uaaj20/current) [IF : 0.59]
 

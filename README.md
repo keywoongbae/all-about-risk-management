@@ -11,11 +11,12 @@
 - 시나리오 작성
   - [[Report] Emerging Risk Report 2017 - Counting the cost](./files/emerging_risk_report_2017.pdf)
   - [[Report] Business Blackout Scenario](./files/business_blackout_scenario.pdf)
-  - [[Paper] The Economic Impact of Extreme Cyber Risk Scenarios](./files/the_economic_impact_of_extreme_cyber_risk_scenarios.pdf)
+  - [The Economic Impact of Extreme Cyber Risk Scenarios](./files/the_economic_impact_of_extreme_cyber_risk_scenarios.pdf) (Martin Eling. et al / North American Actuarial Journal 2022)
     - [논문 리뷰](./review/The Economic Impact of Extreme Cyber Risk Scenarios.md)
   - [[Paper] Cyber Risk Management for Critical Infrastructure](./files/cyber_risk_management_for_critical_infrastructure.pdf)
 - Loss Distribution Approach (LDA)
   - [An R package for fitting distributions](./files/fitdistrplus_An R package for fitting distributions(Laura, 2014).pdf)
+    - [R 코드 리뷰](https://github.com/keywoongbae/all-about-risk-management/blob/main/code/R%20package%20for%20fitting%20distributions.r)
   - [Computation of the Loss Distribution in Python](https://quantatrisk.com/2016/06/05/loss-distribution-operational-risk/)
     - 전반적인 LDA에 대한 설명이 간략하게 설명되어 있음.
     - 최대우도추정이나 분포 추정에 대한 내용은 없음.
@@ -42,4 +43,5 @@
 
 - 저널
   - [NAAJ (North American Actuarial Journal)](https://www.tandfonline.com/toc/uaaj20/current) [IF : 0.59]
+  - [SAJ (Scandinavian Actuarial Journal)](https://www.tandfonline.com/toc/sact20/current) [IF : 1.782]
 

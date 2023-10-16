@@ -12,6 +12,7 @@
   - [[Report] Emerging Risk Report 2017 - Counting the cost](./files/emerging_risk_report_2017.pdf)
   - [[Report] Business Blackout Scenario](./files/business_blackout_scenario.pdf)
   - [[Paper] The Economic Impact of Extreme Cyber Risk Scenarios](./files/the_economic_impact_of_extreme_cyber_risk_scenarios.pdf)
+    - [논문 리뷰](./review/The Economic Impact of Extreme Cyber Risk Scenarios.md)
   - [[Paper] Cyber Risk Management for Critical Infrastructure](./files/cyber_risk_management_for_critical_infrastructure.pdf)
 - Loss Distribution Approach (LDA)
   - [An R package for fitting distributions](./files/fitdistrplus_An R package for fitting distributions(Laura, 2014).pdf)
@@ -21,6 +22,8 @@
   - [GLM 빈도 심도 분석](https://www.kiri.or.kr/pdf/%EC%97%B0%EA%B5%AC%EC%9E%90%EB%A3%8C/%EC%97%B0%EA%B5%AC%EB%B3%B4%EA%B3%A0%EC%84%9C/nre2018-16_02.pdf)
     - Loss Estimation과 GLM 사용하는 그 연결 부분에 대한 설명.
   - [Generalized Linear Models for Loss Calculation in General Insurance](./files/GLM_for_loss_calculation_in_GI.pdf)
+- Regression analysis (방법론, 모델)
+  - [GLM, GAM 비교 분석](https://christophm.github.io/interpretable-ml-book/extend-lm.html)
 - 사이버 리스크
   - [Examining the Correlation Between Major Cyber Events and Broad Market Performance](./files/Sep-2023-Cyber-Report-ILS-Publish.pdf)
 

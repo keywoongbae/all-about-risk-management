@@ -6,7 +6,7 @@
 
 ## Resources
 
-### ✅ 리스크관리 관련 유용한 자료 ✅
+### ◽ 리스크관리 관련 유용한 자료
 
 - **시나리오 작성**
   - [[Report] Emerging Risk Report 2017 - Counting the cost](./files/emerging_risk_report_2017.pdf)
@@ -28,7 +28,7 @@
 - **사이버 리스크**
   - [Examining the Correlation Between Major Cyber Events and Broad Market Performance](./files/Sep-2023-Cyber-Report-ILS-Publish.pdf)
 
-### ✅ 리스크 관리 논문 리뷰 ✅
+### ◽ 리스크 관리 논문 리뷰
 
 - **사이버리스크에 대한 소개**
   - [The drivers of cyber risk](./files/Aldasoro_JFS_2022.pdf) (Iñaki Aldasoro. et al / Journal of Financial Stability 2022)
@@ -39,7 +39,7 @@
     - [논문 리뷰](https://newindow.tistory.com/319)
   - [Time-series forecasting of mortality rates using deep learning](./files/Perla_et_al_SAJ_2021.pdf) (Francesca Perla.et al & Mario V. Wüthrich / Scandinavian Actuarial Journal 2021)
 
-### ✅ Journals & Conferences ✅
+### ◽ Journals & Conferences
 
 - **저널**
   - [NAAJ (North American Actuarial Journal)](https://www.tandfonline.com/toc/uaaj20/current) [IF : 0.59]

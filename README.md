@@ -32,7 +32,8 @@
 - **Cyber Risk (사이버리스크 관리)**
   - [The drivers of cyber risk](./files/Aldasoro_JFS_2022.pdf) (Thomas Leach. et al / Journal of Financial Stability 2022)
     - [논문 리뷰](./review/the_drivers_of_cyber_risk.md) 
-- [Insurability of Cyber Risk: An Empirical Analysis](./files/Biener_IASIE_2015.pdf) (Martin Eling. et al / The International Association for the Study of Insurance Economics 2015)
+  - [Insurability of Cyber Risk: An Empirical Analysis](./files/Biener_IASIE_2015.pdf) (Martin Eling. et al / The International Association for the Study of Insurance Economics 2015)
+  
   - [What are the actual costs of cyber risk events?](./files/Eling_EJOR_2019.pdf) (Martin Eling. et al / European Journal of Operational Research 2019)
 - **Natural Catastrophe Risk (자연재해로 인한 리스크 관리)**
   - [Natural Catastrophe Risk, Insurance and Economic Development](./files/zhao_procedia.pdf) (Zhao Zhengtang / Energy Procedia 2011)

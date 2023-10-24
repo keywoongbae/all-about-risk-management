@@ -31,10 +31,13 @@
 
 - **Cyber Risk (사이버리스크 관리)**
   - [The drivers of cyber risk](./files/Aldasoro_JFS_2022.pdf) (Thomas Leach. et al / Journal of Financial Stability 2022)
-    - [논문 리뷰](./review/the_drivers_of_cyber_risk.md) 
+    - [두터운 꼬리 분포를 띄는 사이버리스크는 회사의 크기가 클수록, 사건이 우발적일수록(극단적인 케이스 제외), 디지털 사용 점유율(클라우드 서비스)이 클수록 커지며, 피싱/스키밍 분야의 사건이 cyber cost가 높다.](./review/the_drivers_of_cyber_risk.md) 
   - [Insurability of Cyber Risk: An Empirical Analysis](./files/Biener_IASIE_2015.pdf) (Martin Eling. et al / The International Association for the Study of Insurance Economics 2015)
-  
+    - 사이버리스크의 특성을 강조하고, 연관되는 문제들을 밝혀내여 제안함.
   - [What are the actual costs of cyber risk events?](./files/Eling_EJOR_2019.pdf) (Martin Eling. et al / European Journal of Operational Research 2019)
+    - 운영리스크에서 사이버리스크를 분류하는 모델을 제안함.
+  - [Cyber risk research in business and actuarial science](./files/Eling_EAJ_2020.pdf) (Martin Eling / European Actuarial Journal 2020)
+    - 사이버 리스크 문헌들을 검토하였으며, 연구의 필요성을 강조함.
 - **Natural Catastrophe Risk (자연재해로 인한 리스크 관리)**
   - [Natural Catastrophe Risk, Insurance and Economic Development](./files/zhao_procedia.pdf) (Zhao Zhengtang / Energy Procedia 2011)
     - 자연재해 위험관리의 중요성과 보험의 역할에 대해 설명함.

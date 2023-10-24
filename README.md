@@ -31,7 +31,7 @@
 
 - **Cyber Risk (사이버리스크 관리)**
   - [The drivers of cyber risk](./files/Aldasoro_JFS_2022.pdf) (Thomas Leach. et al / Journal of Financial Stability 2022)
-    - [두터운 꼬리 분포를 띄는 사이버리스크는 회사의 크기가 클수록, 사건이 우발적일수록(극단적인 케이스 제외), 디지털 사용 점유율(클라우드 서비스)이 클수록 커지며, 피싱/스키밍 분야의 사건이 cyber cost가 높다.](./review/the_drivers_of_cyber_risk.md) 
+    - 사이버리스크와 여러 요인들과의 상관관계를 분석하여 제안함. [[논문 리뷰]](./review/the_drivers_of_cyber_risk.md) 
   - [Insurability of Cyber Risk: An Empirical Analysis](./files/Biener_IASIE_2015.pdf) (Martin Eling. et al / The International Association for the Study of Insurance Economics 2015)
     - 사이버리스크의 특성을 강조하고, 연관되는 문제들을 밝혀내여 제안함.
   - [What are the actual costs of cyber risk events?](./files/Eling_EJOR_2019.pdf) (Martin Eling. et al / European Journal of Operational Research 2019)

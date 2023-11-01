@@ -16,7 +16,7 @@
   - [[Paper] Cyber Risk Management for Critical Infrastructure](./files/cyber_risk_management_for_critical_infrastructure.pdf)
 - **Loss Distribution Approach (LDA)**
   - [An R package for fitting distributions](./files/fitdistrplus_An R package for fitting distributions(Laura, 2014).pdf)
-    - [R 코드 리뷰](https://github.com/keywoongbae/all-about-risk-management/blob/main/code/R%20package%20for%20fitting%20distributions.r)
+    - [[주피터 노트북 R코드]](https://github.com/keywoongbae/all-about-risk-management/blob/main/code/fitdistrplus_An_R_Package_for_Fitting_Distributions.ipynb) [[R 코드 리뷰]](https://github.com/keywoongbae/all-about-risk-management/blob/main/code/R%20package%20for%20fitting%20distributions.r)
   - [Computation of the Loss Distribution in Python](https://quantatrisk.com/2016/06/05/loss-distribution-operational-risk/)
     - 전반적인 LDA에 대한 설명이 간략하게 설명되어 있으며, 분포추정에 대한 내용은 없음.
   - [GLM 빈도 심도 분석](https://www.kiri.or.kr/pdf/%EC%97%B0%EA%B5%AC%EC%9E%90%EB%A3%8C/%EC%97%B0%EA%B5%AC%EB%B3%B4%EA%B3%A0%EC%84%9C/nre2018-16_02.pdf)
